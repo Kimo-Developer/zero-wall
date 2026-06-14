@@ -1,2 +1,0 @@
-# zero-wall
-DropZone Protection
